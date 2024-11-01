@@ -4,6 +4,8 @@
 
 The CAMEL Application Part (CAP) is a protocol used within mobile networks to enable the execution of operator-specific services for GSM and UMTS networks.&#x20;
 
+<figure><img src=".gitbook/assets/CAMEL  The Hidden Threat in the Network.jpg" alt=""><figcaption></figcaption></figure>
+
 It plays a pivotal role in handling call control features and supplementary services beyond the basic call setup.
 
 **Key Features:**
